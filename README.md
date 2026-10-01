@@ -1,1 +1,2 @@
 add repo
+set patch
